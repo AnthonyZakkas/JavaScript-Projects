@@ -1,0 +1,1 @@
+this will be the first in a long series of mini projects in javascript
